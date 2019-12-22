@@ -1,0 +1,43 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.centeredb1 {
+  height: 100%;
+  width: 10%;
+  margin-left: 25%;
+  margin-right: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centeredb2 {
+  height: 100%;
+  width: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form1 {
+  font-size: 150%;
+  margin-right: 79%;
+}
+.react-grid-HeaderCell,
+.react-grid-Cell {
+  box-sizing: border-box;
+}
+.addForm {
+  width: 50%;
+  margin-left: 2%;
+  margin-top: 3%;
+}
+input[type="file"] {
+  opacity: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.btn-space {
+  margin-right: 5%;
+}
